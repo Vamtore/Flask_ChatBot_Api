@@ -1,0 +1,51 @@
+{
+	"Title": "FAQs",
+	"Description": "FAQ's",
+	"FAQ": [{
+		"_id": "01",
+		"faqtype":"Returns",
+		"question": "What is the return policy?",
+		"answer": "No returns"
+	}, {
+		"_id": "02",
+		"faqtype":"Refunds",
+		"question": "Is refund policy Applicable for Amazon?",
+		"answer": "its not applicable"
+	},{
+		"_id": "03",
+		"faqtype":"Requirement",
+		"question": "What is requirement Policy?",
+		"answer": "its not applicable"
+	},{
+		"_id": "04",
+		"faqtype":"Requirement",
+		"question": "What is City Name?",
+		"answer": "Jaipur"
+	},{
+		"_id": "05",
+		"faqtype":"Requirement",
+		"question": "What is Policy Status?",
+		"answer": "Activated"
+	},{
+		"_id": "06",
+		"faqtype":"Requirement",
+		"question": "How to applapply for the regiregistration?",
+		"answer": "GO to the portal"
+	},{
+		"_id": "07",
+		"faqtype":"Requirement",
+		"question": "Your Service Name?",
+		"answer": "DTDC"
+	},{
+		"_id": "08",
+		"faqtype":"Requirement",
+		"question": "what is your state?",
+		"answer": "Rajasthan"
+	},{
+		"_id": "09",
+		"faqtype":"Requirement",
+		"question": "what is your age?",
+		"answer": "23"
+	}
+	]
+}
